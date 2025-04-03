@@ -1,0 +1,14 @@
+D:\coding\class\PRN222\coding\TestClient\Client\bin\Debug\net8.0\Client.exe
+D:\coding\class\PRN222\coding\TestClient\Client\bin\Debug\net8.0\Client.deps.json
+D:\coding\class\PRN222\coding\TestClient\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+D:\coding\class\PRN222\coding\TestClient\Client\bin\Debug\net8.0\Client.dll
+D:\coding\class\PRN222\coding\TestClient\Client\bin\Debug\net8.0\Client.pdb
+D:\coding\class\PRN222\coding\TestClient\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\class\PRN222\coding\TestClient\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+D:\coding\class\PRN222\coding\TestClient\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+D:\coding\class\PRN222\coding\TestClient\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+D:\coding\class\PRN222\coding\TestClient\Client\obj\Debug\net8.0\Client.dll
+D:\coding\class\PRN222\coding\TestClient\Client\obj\Debug\net8.0\refint\Client.dll
+D:\coding\class\PRN222\coding\TestClient\Client\obj\Debug\net8.0\Client.pdb
+D:\coding\class\PRN222\coding\TestClient\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+D:\coding\class\PRN222\coding\TestClient\Client\obj\Debug\net8.0\ref\Client.dll

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding\\class\\PRN222\\coding\\APS_DOTNET_CORE_RAZOR_PAGE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{865117DE-4EFF-4274-9F02-B8E372A335D8}|Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST.csproj|d:\\coding\\class\\prn222\\coding\\aps_dotnet_core_razor_page\\topic_3_asp_dot_net_razor_workef_dbfrist\\pages\\admin\\productpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{865117DE-4EFF-4274-9F02-B8E372A335D8}|Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST.csproj|solutionrelative:topic_3_asp_dot_net_razor_workef_dbfrist\\pages\\admin\\productpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865117DE-4EFF-4274-9F02-B8E372A335D8}|Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST.csproj|d:\\coding\\class\\prn222\\coding\\aps_dotnet_core_razor_page\\topic_3_asp_dot_net_razor_workef_dbfrist\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865117DE-4EFF-4274-9F02-B8E372A335D8}|Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST.csproj|solutionrelative:topic_3_asp_dot_net_razor_workef_dbfrist\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865117DE-4EFF-4274-9F02-B8E372A335D8}|Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST.csproj|d:\\coding\\class\\prn222\\coding\\aps_dotnet_core_razor_page\\topic_3_asp_dot_net_razor_workef_dbfrist\\pages\\admin\\productpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865117DE-4EFF-4274-9F02-B8E372A335D8}|Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST.csproj|solutionrelative:topic_3_asp_dot_net_razor_workef_dbfrist\\pages\\admin\\productpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865117DE-4EFF-4274-9F02-B8E372A335D8}|Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST.csproj|d:\\coding\\class\\prn222\\coding\\aps_dotnet_core_razor_page\\topic_3_asp_dot_net_razor_workef_dbfrist\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{865117DE-4EFF-4274-9F02-B8E372A335D8}|Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST.csproj|solutionrelative:topic_3_asp_dot_net_razor_workef_dbfrist\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{865117DE-4EFF-4274-9F02-B8E372A335D8}|Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST.csproj|d:\\coding\\class\\prn222\\coding\\aps_dotnet_core_razor_page\\topic_3_asp_dot_net_razor_workef_dbfrist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{865117DE-4EFF-4274-9F02-B8E372A335D8}|Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST.csproj|solutionrelative:topic_3_asp_dot_net_razor_workef_dbfrist\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\APS_DOTNET_CORE_RAZOR_PAGE\\Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Models\\Category.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\APS_DOTNET_CORE_RAZOR_PAGE\\Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Models\\Category.cs",
+              "RelativeToolTip": "Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:04:05.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\APS_DOTNET_CORE_RAZOR_PAGE\\Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Models\\Product.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\APS_DOTNET_CORE_RAZOR_PAGE\\Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Models\\Product.cs",
+              "RelativeToolTip": "Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:01:04.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\APS_DOTNET_CORE_RAZOR_PAGE\\Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Pages\\Admin\\ProductPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Pages\\Admin\\ProductPage\\Index.cshtml",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\APS_DOTNET_CORE_RAZOR_PAGE\\Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Pages\\Admin\\ProductPage\\Index.cshtml*",
+              "RelativeToolTip": "Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Pages\\Admin\\ProductPage\\Index.cshtml*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T05:00:40.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\APS_DOTNET_CORE_RAZOR_PAGE\\Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Pages\\Admin\\ProductPage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Pages\\Admin\\ProductPage\\Index.cshtml.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\APS_DOTNET_CORE_RAZOR_PAGE\\Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Pages\\Admin\\ProductPage\\Index.cshtml.cs",
+              "RelativeToolTip": "Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\Pages\\Admin\\ProductPage\\Index.cshtml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T05:00:37.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\APS_DOTNET_CORE_RAZOR_PAGE\\Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\appsettings.json",
+              "RelativeDocumentMoniker": "Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\appsettings.json",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\APS_DOTNET_CORE_RAZOR_PAGE\\Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\appsettings.json",
+              "RelativeToolTip": "Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T05:00:36.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

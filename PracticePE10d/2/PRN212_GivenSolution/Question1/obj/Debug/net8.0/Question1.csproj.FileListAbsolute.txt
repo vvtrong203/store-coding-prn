@@ -1,0 +1,14 @@
+D:\PE\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.exe
+D:\PE\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.deps.json
+D:\PE\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.runtimeconfig.json
+D:\PE\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.dll
+D:\PE\PRN212_GivenSolution\Question1\bin\Debug\net8.0\Question1.pdb
+D:\PE\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PE\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.AssemblyInfoInputs.cache
+D:\PE\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.AssemblyInfo.cs
+D:\PE\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.csproj.CoreCompileInputs.cache
+D:\PE\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.dll
+D:\PE\PRN212_GivenSolution\Question1\obj\Debug\net8.0\refint\Question1.dll
+D:\PE\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.pdb
+D:\PE\PRN212_GivenSolution\Question1\obj\Debug\net8.0\Question1.genruntimeconfig.cache
+D:\PE\PRN212_GivenSolution\Question1\obj\Debug\net8.0\ref\Question1.dll

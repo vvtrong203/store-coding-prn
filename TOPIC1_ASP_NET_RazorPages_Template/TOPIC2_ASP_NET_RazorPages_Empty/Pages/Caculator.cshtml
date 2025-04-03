@@ -1,0 +1,15 @@
+﻿@page
+@model TOPIC2_ASP_NET_RazorPages_Empty.Pages.CaculatorModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+	if (Model.sum != 0)
+	{
+		<div>Sum = @Model.sum</div>	
+	}
+}
+<h1>baisc Caculator</h1>
+<form method ="post">
+	number 1 : <input asp-for="n1" value="@Model.n1"/><br>
+	number 2 : <input asp-for="n2" value="@Model.n2" /><br>
+	<input type="submit"/>
+</form>

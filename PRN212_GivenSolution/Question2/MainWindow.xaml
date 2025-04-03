@@ -1,0 +1,64 @@
+﻿<Window x:Class="Question2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Question2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="780">
+    <Grid Margin="40">
+        <StackPanel>
+            <ComboBox Name="cbuser" Margin="0 0 0 20" SelectedValuePath = "UserId" DisplayMemberPath = "Username" HorizontalAlignment="Left" VerticalAlignment="Top" Height="25" Width="450" SelectionChanged="cbuser_SelectionChanged"/>
+            <!--SelectionChanged: This property specifies the name of the event handler method that will be called when the selection in the ComboBox changes. In this case, it's cbuser_SelectionChanged.-->
+
+            <WrapPanel>
+                <DataGrid x:Name="dgCourse" Width="450" Height="300" AutoGenerateColumns="False" SelectionChanged="dgCourse_SelectionChanged">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Width="40" Header="CourseId" Binding="{Binding CourseId}"/>
+                        <DataGridTextColumn Width="100" Header="Title" Binding="{Binding Title}"/>
+                        <DataGridTextColumn Width="140" Header="Description" Binding="{Binding Description}"/>
+                        <DataGridTextColumn Width="70" Header="InstructorId" Binding="{Binding InstructorId}"/>
+                        <DataGridTextColumn Width="100" Header="InstructorName" Binding="{Binding InstructorName}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+                <StackPanel>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+
+                        <Label Grid.Row="0" Grid.Column="0"  Content="CourseId"/>
+                        <Label Grid.Row="1" Grid.Column="0" Content="CourseTitle"/>
+                        <Label Grid.Row="2" Grid.Column="0" Content="Description"/>
+                        <Label Grid.Row="3" Grid.Column="0" Content="Instructor"/>
+                        <!--<Label Grid.Row="0" Grid.Column="1"  x:Name="txtCourseId"
+                           Content="{Binding Path=CourseId, Mode=OneWay}" 
+                           DataContext="{Binding ElementName=dgCourse, Path=SelectedItem}" /> -->
+                        <TextBlock Grid.Row="0" Grid.Column="1"  x:Name="txtCourseId"
+                           Text="{Binding Path=CourseId, Mode=OneWay}" 
+                           DataContext="{Binding ElementName=dgCourse, Path=SelectedItem}" />
+
+                        <TextBox x:Name="txtCourseTitle" Width="160" Grid.Row="1" Grid.Column="1" 
+                             Text="{Binding Path=Title, Mode=OneWay}" 
+                             DataContext="{Binding ElementName=dgCourse, Path=SelectedItem}" />
+
+                        <TextBox x:Name="txtCourseDescription" Width="160" Grid.Row="2" Grid.Column="1"
+                                 Text="{Binding Path=Description, Mode=OneWay}" 
+                                 DataContext="{Binding ElementName=dgCourse, Path=SelectedItem}" />
+                        <ComboBox Width="160" Grid.Row="3" Grid.Column="1" x:Name="cbin" 
+                                  SelectedValuePath="InstructorId" DisplayMemberPath="Name"/>
+                    </Grid>
+
+                    <Button Margin="20" x:Name="btnEdit" Content="Edit" Width="100" Click="btnEdit_Click"/>
+                </StackPanel>
+            </WrapPanel>
+        </StackPanel>
+    </Grid>
+</Window>

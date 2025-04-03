@@ -1,0 +1,100 @@
+﻿@model Model2_ASP_NET_EF_CodeFirst.Models.Product
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<h2>Chỉnh sửa sản phẩm</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="ProductId" />
+
+    <label>Tên sản phẩm:</label>
+    <input asp-for="ProductName" class="form-control" required />
+
+    <label>Giá:</label>
+    <input asp-for="Price" type="number" class="form-control" required />
+
+    <label>Danh mục:</label>
+    <select asp-for="CategoryId" class="form-control">
+        @foreach (var category in ViewBag.Categories)
+        {
+            <option value="@category.CategoryId">@category.CategoryName</option>
+        }
+    </select>
+
+    <button type="submit" class="btn btn-success">Lưu</button>
+</form>
+
+
+
+@* @{ *@
+@*     ViewData["Title"] = "Shopping Cart"; *@
+@* } *@
+@* *@
+@* <div class="container mt-4"> *@
+@*     <div class="row"> *@
+@*         <!-- List of Products --> *@
+@*         <div class="col-md-7"> *@
+@*             <h2 class="text-center">List of Products</h2> *@
+@*             <table class="table table-bordered"> *@
+@*                 <thead class="table-dark"> *@
+@*                     <tr> *@
+@*                         <th>Id</th> *@
+@*                         <th>Name</th> *@
+@*                         <th>Price</th> *@
+@*                         <th>Category</th> *@
+@*                         <th>Action</th> *@
+@*                     </tr> *@
+@*                 </thead> *@
+@*                 <tbody> *@
+@*                     @foreach (var product in Model) *@
+@*                     { *@
+@*                         <tr> *@
+@*                             <td>@product.ProductId</td> *@
+@*                             <td><a href="#">@product.ProductName</a></td> *@
+@*                             <td>@product.Price.ToString("N0") ₫</td> *@
+@*                             <td>@product.Category?.CategoryName</td> *@
+@*                             <td> *@
+@*                                 <form method="post" asp-controller="Cart" asp-action="AddToCart" id="form-@product.ProductId" class="add-to-cart-form"> *@
+@*                                     <input type="hidden" name="id" value="@product.ProductId" /> *@
+@*                                     <input type="number" name="quantity" value="1" min="1" class="form-control w-50 d-inline qty" data-id="@product.ProductId" /> *@
+@*                                     <button type="submit" class="btn btn-primary" data-id="@product.ProductId">Add to Cart</button> *@
+@*                                 </form> *@
+@*                             </td> *@
+@*                         </tr> *@
+@*                     } *@
+@*                 </tbody> *@
+@*             </table> *@
+@*         </div> *@
+@*     </div> *@
+@* </div> *@
+@* *@
+@* @section Scripts { *@
+@*     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script> *@
+@*     <script> *@
+@*         $(document).ready(function () { *@
+@*             $(".add-to-cart-form").on("submit", function (event) { *@
+@*                 event.preventDefault(); // Prevent the form from submitting the traditional way *@
+@* *@
+@*                 var form = $(this); *@
+@*                 var productId = form.find("input[name='id']").val(); *@
+@*                 var quantity = form.find("input[name='quantity']").val(); *@
+@* *@
+@*                 // Send the AJAX request *@
+@*                 $.ajax({ *@
+@*                     url: '/product/AddToCart', *@
+@*                     type: 'POST', *@
+@*                     data: { *@
+@*                         id: productId, *@
+@*                         quantity: quantity *@
+@*                     }, *@
+@*                     success: function (response) { *@
+@*                         alert("Product added to cart!"); *@
+@*                         // Optionally update cart UI or handle response *@
+@*                     }, *@
+@*                     error: function (xhr, status, error) { *@
+@*                         alert("Error adding product to cart."); *@
+@*                     } *@
+@*                 }); *@
+@*             }); *@
+@*         }); *@
+@*     </script> *@
+@* } *@

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding\\udemy-coding\\master-csharp-coding\\PRN222\\Model2_ASPNET_Empty_Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95AB2538-EA0A-41DB-8253-814C457C0A6B}|Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core.csproj|d:\\coding\\udemy-coding\\master-csharp-coding\\prn222\\model2_aspnet_empty_core\\model2_aspnet_empty_core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AB2538-EA0A-41DB-8253-814C457C0A6B}|Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core.csproj|solutionrelative:model2_aspnet_empty_core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AB2538-EA0A-41DB-8253-814C457C0A6B}|Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core.csproj|d:\\coding\\udemy-coding\\master-csharp-coding\\prn222\\model2_aspnet_empty_core\\model2_aspnet_empty_core\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95AB2538-EA0A-41DB-8253-814C457C0A6B}|Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core.csproj|solutionrelative:model2_aspnet_empty_core\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AB2538-EA0A-41DB-8253-814C457C0A6B}|Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core.csproj|d:\\coding\\udemy-coding\\master-csharp-coding\\prn222\\model2_aspnet_empty_core\\model2_aspnet_empty_core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{95AB2538-EA0A-41DB-8253-814C457C0A6B}|Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core.csproj|solutionrelative:model2_aspnet_empty_core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AB2538-EA0A-41DB-8253-814C457C0A6B}|Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core.csproj|d:\\coding\\udemy-coding\\master-csharp-coding\\prn222\\model2_aspnet_empty_core\\model2_aspnet_empty_core\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{95AB2538-EA0A-41DB-8253-814C457C0A6B}|Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core.csproj|solutionrelative:model2_aspnet_empty_core\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AB2538-EA0A-41DB-8253-814C457C0A6B}|Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core.csproj|d:\\coding\\udemy-coding\\master-csharp-coding\\prn222\\model2_aspnet_empty_core\\model2_aspnet_empty_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95AB2538-EA0A-41DB-8253-814C457C0A6B}|Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core.csproj|solutionrelative:model2_aspnet_empty_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AB2538-EA0A-41DB-8253-814C457C0A6B}|Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core.csproj|d:\\coding\\udemy-coding\\master-csharp-coding\\prn222\\model2_aspnet_empty_core\\model2_aspnet_empty_core\\model2_aspnet_empty_core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{95AB2538-EA0A-41DB-8253-814C457C0A6B}|Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core.csproj|solutionrelative:model2_aspnet_empty_core\\model2_aspnet_empty_core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\coding\\udemy-coding\\master-csharp-coding\\PRN222\\Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "Model2_ASPNET_Empty_Core\\Views\\Home\\Create.cshtml",
+              "ToolTip": "D:\\coding\\udemy-coding\\master-csharp-coding\\PRN222\\Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "Model2_ASPNET_Empty_Core\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T02:51:51.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\coding\\udemy-coding\\master-csharp-coding\\PRN222\\Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Model2_ASPNET_Empty_Core\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\coding\\udemy-coding\\master-csharp-coding\\PRN222\\Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Model2_ASPNET_Empty_Core\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T02:48:12.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\coding\\udemy-coding\\master-csharp-coding\\PRN222\\Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Model2_ASPNET_Empty_Core\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\coding\\udemy-coding\\master-csharp-coding\\PRN222\\Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Model2_ASPNET_Empty_Core\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T02:47:49.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\coding\\udemy-coding\\master-csharp-coding\\PRN222\\Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Model2_ASPNET_Empty_Core\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\coding\\udemy-coding\\master-csharp-coding\\PRN222\\Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Model2_ASPNET_Empty_Core\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T02:47:05.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\coding\\udemy-coding\\master-csharp-coding\\PRN222\\Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core\\Program.cs",
+              "RelativeDocumentMoniker": "Model2_ASPNET_Empty_Core\\Program.cs",
+              "ToolTip": "D:\\coding\\udemy-coding\\master-csharp-coding\\PRN222\\Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core\\Program.cs",
+              "RelativeToolTip": "Model2_ASPNET_Empty_Core\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T02:38:57.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model2_ASPNET_Empty_Core",
+              "DocumentMoniker": "D:\\coding\\udemy-coding\\master-csharp-coding\\PRN222\\Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core.csproj",
+              "RelativeDocumentMoniker": "Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core.csproj",
+              "ToolTip": "D:\\coding\\udemy-coding\\master-csharp-coding\\PRN222\\Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core.csproj",
+              "RelativeToolTip": "Model2_ASPNET_Empty_Core\\Model2_ASPNET_Empty_Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T02:45:38.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Module2_ASP_NET_MVC_EF_CodeFirst/css/bootstrap.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-djO3wMl9GeaC/u6K\u002Bic4Uj/LKhRUSlUFcsruzS7v5ms="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"155845"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022djO3wMl9GeaC/u6K\u002Bic4Uj/LKhRUSlUFcsruzS7v5ms=\u0022"},{"Name":"Last-Modified","Value":"Tue, 22 Jun 2021 18:25:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Module2_ASP_NET_MVC_EF_CodeFirst/css/bootstrap.min.css.9q800f0h4d.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap.min.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9q800f0h4d"},{"Name":"integrity","Value":"sha256-z/c1rzzuR6WNgmPgoYRXMC9xLJcMkN4hbTIx/RxBs7I="},{"Name":"label","Value":"_content/Module2_ASP_NET_MVC_EF_CodeFirst/css/bootstrap.min.css.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"431289"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022z/c1rzzuR6WNgmPgoYRXMC9xLJcMkN4hbTIx/RxBs7I=\u0022"},{"Name":"Last-Modified","Value":"Tue, 22 Jun 2021 18:25:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Module2_ASP_NET_MVC_EF_CodeFirst/css/bootstrap.min.css.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap.min.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-z/c1rzzuR6WNgmPgoYRXMC9xLJcMkN4hbTIx/RxBs7I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"431289"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022z/c1rzzuR6WNgmPgoYRXMC9xLJcMkN4hbTIx/RxBs7I=\u0022"},{"Name":"Last-Modified","Value":"Tue, 22 Jun 2021 18:25:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Module2_ASP_NET_MVC_EF_CodeFirst/css/bootstrap.min.i6ufqnjp46.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"i6ufqnjp46"},{"Name":"integrity","Value":"sha256-djO3wMl9GeaC/u6K\u002Bic4Uj/LKhRUSlUFcsruzS7v5ms="},{"Name":"label","Value":"_content/Module2_ASP_NET_MVC_EF_CodeFirst/css/bootstrap.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"155845"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022djO3wMl9GeaC/u6K\u002Bic4Uj/LKhRUSlUFcsruzS7v5ms=\u0022"},{"Name":"Last-Modified","Value":"Tue, 22 Jun 2021 18:25:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

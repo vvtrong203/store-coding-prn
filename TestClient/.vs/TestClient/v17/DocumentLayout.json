@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding\\class\\PRN222\\coding\\TestClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3714A0-4564-41D6-968F-3C4C30C5955F}|WpfTcpClient\\WpfTcpClient.csproj|d:\\coding\\class\\prn222\\coding\\testclient\\wpftcpclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DF3714A0-4564-41D6-968F-3C4C30C5955F}|WpfTcpClient\\WpfTcpClient.csproj|solutionrelative:wpftcpclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26ADB9C-C22F-4476-BBE1-825F9805DF21}|FileClientWpf\\FileClientWpf.csproj|d:\\coding\\class\\prn222\\coding\\testclient\\fileclientwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B26ADB9C-C22F-4476-BBE1-825F9805DF21}|FileClientWpf\\FileClientWpf.csproj|solutionrelative:fileclientwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C84502-E662-4144-A35F-CEAC85A51228}|Client\\Client.csproj|d:\\coding\\class\\prn222\\coding\\testclient\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C84502-E662-4144-A35F-CEAC85A51228}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26ADB9C-C22F-4476-BBE1-825F9805DF21}|FileClientWpf\\FileClientWpf.csproj|d:\\coding\\class\\prn222\\coding\\testclient\\fileclientwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26ADB9C-C22F-4476-BBE1-825F9805DF21}|FileClientWpf\\FileClientWpf.csproj|solutionrelative:fileclientwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3BAF06-2D21-4B09-96B5-49FFF0B5E5AC}|UDPClientApp\\UDPClientApp.csproj|d:\\coding\\class\\prn222\\coding\\testclient\\udpclientapp\\udpclientapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C3BAF06-2D21-4B09-96B5-49FFF0B5E5AC}|UDPClientApp\\UDPClientApp.csproj|solutionrelative:udpclientapp\\udpclientapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C3BAF06-2D21-4B09-96B5-49FFF0B5E5AC}|UDPClientApp\\UDPClientApp.csproj|d:\\coding\\class\\prn222\\coding\\testclient\\udpclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C3BAF06-2D21-4B09-96B5-49FFF0B5E5AC}|UDPClientApp\\UDPClientApp.csproj|solutionrelative:udpclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF3714A0-4564-41D6-968F-3C4C30C5955F}|WpfTcpClient\\WpfTcpClient.csproj|d:\\coding\\class\\prn222\\coding\\testclient\\wpftcpclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF3714A0-4564-41D6-968F-3C4C30C5955F}|WpfTcpClient\\WpfTcpClient.csproj|solutionrelative:wpftcpclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4CDFB8-C929-4B93-B22C-D16B206BCE3C}|ClientApp\\ClientApp.csproj|d:\\coding\\class\\prn222\\coding\\testclient\\clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4CDFB8-C929-4B93-B22C-D16B206BCE3C}|ClientApp\\ClientApp.csproj|solutionrelative:clientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UDPClientApp.csproj",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TestClient\\UDPClientApp\\UDPClientApp.csproj",
+              "RelativeDocumentMoniker": "UDPClientApp\\UDPClientApp.csproj",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TestClient\\UDPClientApp\\UDPClientApp.csproj",
+              "RelativeToolTip": "UDPClientApp\\UDPClientApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-22T05:55:31.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TestClient\\FileClientWpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "FileClientWpf\\MainWindow.xaml",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TestClient\\FileClientWpf\\MainWindow.xaml",
+              "RelativeToolTip": "FileClientWpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-22T03:29:52.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TestClient\\FileClientWpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FileClientWpf\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TestClient\\FileClientWpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "FileClientWpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAANcCAAAAAAAAAAAowO0CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T03:29:52.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TestClient\\UDPClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "UDPClientApp\\Program.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TestClient\\UDPClientApp\\Program.cs",
+              "RelativeToolTip": "UDPClientApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T03:26:15.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TestClient\\WpfTcpClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfTcpClient\\MainWindow.xaml",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TestClient\\WpfTcpClient\\MainWindow.xaml",
+              "RelativeToolTip": "WpfTcpClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-22T02:57:17.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TestClient\\WpfTcpClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfTcpClient\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TestClient\\WpfTcpClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfTcpClient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T02:57:16.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TestClient\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TestClient\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T02:54:09.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TestClient\\ClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClientApp\\Program.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TestClient\\ClientApp\\Program.cs",
+              "RelativeToolTip": "ClientApp\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T02:24:21.946Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

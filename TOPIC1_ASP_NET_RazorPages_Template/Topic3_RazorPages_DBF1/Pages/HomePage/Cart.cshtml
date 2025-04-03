@@ -1,0 +1,62 @@
+﻿@page
+@using System.Text.Json
+@using Microsoft.AspNetCore.Mvc.TagHelpers
+@using Topic3_RazorPages_DBF1.Modelss
+@model Topic3_RazorPages_DBF1.Pages.HomePage.CartModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div class="col-md-5">
+    <h3 class="text-center">Shopping Cart</h3>
+    <hr/>
+    @{
+        List<CartItem> cartItems = null;
+        if (HttpContext.Session.GetString("Cart") != null)
+        {
+            cartItems = JsonSerializer.Deserialize<List<CartItem>>(HttpContext.Session.GetString("Cart"));
+            if (cartItems.Count > 0)
+            {
+                <table class="table table-bordered">
+                    @for (var i = 0; i < cartItems.Count; i++)
+                    {
+                        <tr>
+                            <td style="width:10%">@(i + 1)</td>
+                            <td style="width:50%">@cartItems[i].ProductName</td>
+                            <td style="width:20%">$@cartItems[i].Price</td>
+                            <td style="width:10%">@cartItems[i].Quantity</td>
+                            <td style="width:10%; text-align:center">
+                                <form method="post" asp-page-handler="RemoveFromCart">
+                                    <input type="hidden" name="productId" value="@cartItems[i].ProductId" />
+                                    <button type="submit" class="btn btn-danger">X</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </table>
+                <hr />
+                <form method="post" asp-page-handler="Checkout">
+                    <span asp-validation-for="ShipAddress" class="text-danger"></span>
+                    <div class="mb-3">
+                        <label class="form-label">Ship Address</label>
+                        <textarea class="form-control" rows="3" asp-for="ShipAddress"></textarea>
+                        <button type="submit" class="btn btn-success mt-2">Checkout</button>
+                    </div>
+                </form>
+            }
+            else
+            {
+                <span>Cart is empty!</span>
+            }
+        }
+        else
+        {
+            <span>Cart is empty!</span>
+            @if (TempData["message"] != null)
+            {
+                <div style="color:green;font-weight:bold">
+                    <h2>Thank you for your order!</h2>
+                    <p>Your order has been placed successfully.</p>
+                </div>
+            }
+        }
+    }
+</div>

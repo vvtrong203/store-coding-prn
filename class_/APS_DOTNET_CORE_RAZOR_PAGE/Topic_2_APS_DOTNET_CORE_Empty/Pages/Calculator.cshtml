@@ -1,0 +1,64 @@
+﻿@page
+@model Topic_2_APS_DOTNET_CORE_Empty.Pages.CalculatorModel
+
+<h1>Calculator</h1>
+
+@if (!ModelState.IsValid)
+{
+    <div style="color: red;">
+        @foreach (var error in ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}
+
+@if (Model.Sum.HasValue && ModelState.IsValid)
+{
+    <div>Kết quả: @Model.Sum</div>
+}
+
+<form method="post">
+    <div>
+        <label for="N1">Số thứ nhất:</label>
+        <input type="text" id="N1" asp-for="N1" />
+    </div>
+    <div>
+        <label for="N2">Số thứ hai:</label>
+        <input type="text" id="N2" asp-for="N2" />
+    </div>
+    <button type="submit">Tính tổng</button>
+</form>
+
+@* @page *@
+@* @model Topic_2_APS_DOTNET_CORE_Empty.Pages.CalculatorModel *@
+@* *@
+@* <h1>Calculator</h1> *@
+@* *@
+@* @if (!ModelState.IsValid) *@
+@* { *@
+@*     <div style="color: red;"> *@
+@*         @foreach (var error in ModelState.Values.SelectMany(v => v.Errors)) *@
+@*         { *@
+@*             <p>@error.ErrorMessage</p> *@
+@*         } *@
+@*     </div> *@
+@* } *@
+@* *@
+@* *@
+@* <form method="post"> *@
+@*     <div> *@
+@*         <label>n1</label> *@
+@*         <input type="text" name="N1" value="@Model.N1" /> *@
+@*     </div> *@
+@*     <div> *@
+@*         <label>n2</label> *@
+@*         <input type="text" name="N2" value="@Model.N2" /> *@
+@*     </div> *@
+@*     <button type="submit">Calculate</button> *@
+@* </form> *@
+@* *@
+@* @if (Model.Sum.HasValue) *@
+@* { *@
+@*     <div>Kết quả: @Model.Sum</div> *@
+@* } *@

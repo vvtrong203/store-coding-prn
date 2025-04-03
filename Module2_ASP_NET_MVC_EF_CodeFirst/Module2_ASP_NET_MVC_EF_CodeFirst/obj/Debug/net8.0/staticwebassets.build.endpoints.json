@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "css/bootstrap.min.css",
+      "AssetFile": "css/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"djO3wMl9GeaC/u6K+ic4Uj/LKhRUSlUFcsruzS7v5ms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Jun 2021 18:25:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-djO3wMl9GeaC/u6K+ic4Uj/LKhRUSlUFcsruzS7v5ms="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css.9q800f0h4d.map",
+      "AssetFile": "css/bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "431289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z/c1rzzuR6WNgmPgoYRXMC9xLJcMkN4hbTIx/RxBs7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Jun 2021 18:25:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9q800f0h4d"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z/c1rzzuR6WNgmPgoYRXMC9xLJcMkN4hbTIx/RxBs7I="
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css.map"
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css.map",
+      "AssetFile": "css/bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "431289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z/c1rzzuR6WNgmPgoYRXMC9xLJcMkN4hbTIx/RxBs7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Jun 2021 18:25:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z/c1rzzuR6WNgmPgoYRXMC9xLJcMkN4hbTIx/RxBs7I="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.i6ufqnjp46.css",
+      "AssetFile": "css/bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"djO3wMl9GeaC/u6K+ic4Uj/LKhRUSlUFcsruzS7v5ms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Jun 2021 18:25:36 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i6ufqnjp46"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-djO3wMl9GeaC/u6K+ic4Uj/LKhRUSlUFcsruzS7v5ms="
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css"
+        }
+      ]
+    }
+  ]
+}

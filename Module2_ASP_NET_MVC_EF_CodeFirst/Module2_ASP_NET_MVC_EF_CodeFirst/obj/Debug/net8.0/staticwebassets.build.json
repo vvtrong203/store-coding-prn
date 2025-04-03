@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "Hash": "byp1NKYqGchjrpkszNy4h8unedSOPmteAjAAwX4rzks=",
+  "Source": "Module2_ASP_NET_MVC_EF_CodeFirst",
+  "BasePath": "_content/Module2_ASP_NET_MVC_EF_CodeFirst",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Module2_ASP_NET_MVC_EF_CodeFirst\\wwwroot",
+      "Source": "Module2_ASP_NET_MVC_EF_CodeFirst",
+      "ContentRoot": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\wwwroot\\",
+      "BasePath": "_content/Module2_ASP_NET_MVC_EF_CodeFirst",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "Module2_ASP_NET_MVC_EF_CodeFirst",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\wwwroot\\",
+      "BasePath": "_content/Module2_ASP_NET_MVC_EF_CodeFirst",
+      "RelativePath": "css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i6ufqnjp46",
+      "Integrity": "djO3wMl9GeaC/u6K+ic4Uj/LKhRUSlUFcsruzS7v5ms=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\wwwroot\\css\\bootstrap.min.css.map",
+      "SourceId": "Module2_ASP_NET_MVC_EF_CodeFirst",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\wwwroot\\",
+      "BasePath": "_content/Module2_ASP_NET_MVC_EF_CodeFirst",
+      "RelativePath": "css/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9q800f0h4d",
+      "Integrity": "z/c1rzzuR6WNgmPgoYRXMC9xLJcMkN4hbTIx/RxBs7I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css.map"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/bootstrap.min.css",
+      "AssetFile": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\wwwroot\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"djO3wMl9GeaC/u6K+ic4Uj/LKhRUSlUFcsruzS7v5ms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Jun 2021 18:25:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-djO3wMl9GeaC/u6K+ic4Uj/LKhRUSlUFcsruzS7v5ms="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css.9q800f0h4d.map",
+      "AssetFile": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\wwwroot\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "431289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z/c1rzzuR6WNgmPgoYRXMC9xLJcMkN4hbTIx/RxBs7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Jun 2021 18:25:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9q800f0h4d"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z/c1rzzuR6WNgmPgoYRXMC9xLJcMkN4hbTIx/RxBs7I="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css.map",
+      "AssetFile": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\wwwroot\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "431289"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z/c1rzzuR6WNgmPgoYRXMC9xLJcMkN4hbTIx/RxBs7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Jun 2021 18:25:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z/c1rzzuR6WNgmPgoYRXMC9xLJcMkN4hbTIx/RxBs7I="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.i6ufqnjp46.css",
+      "AssetFile": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\wwwroot\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155845"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"djO3wMl9GeaC/u6K+ic4Uj/LKhRUSlUFcsruzS7v5ms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 22 Jun 2021 18:25:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i6ufqnjp46"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-djO3wMl9GeaC/u6K+ic4Uj/LKhRUSlUFcsruzS7v5ms="
+        }
+      ]
+    }
+  ]
+}

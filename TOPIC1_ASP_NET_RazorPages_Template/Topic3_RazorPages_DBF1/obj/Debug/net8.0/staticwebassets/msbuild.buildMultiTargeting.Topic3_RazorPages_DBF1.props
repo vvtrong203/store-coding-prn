@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Topic3_RazorPages_DBF1.props" />
+</Project>

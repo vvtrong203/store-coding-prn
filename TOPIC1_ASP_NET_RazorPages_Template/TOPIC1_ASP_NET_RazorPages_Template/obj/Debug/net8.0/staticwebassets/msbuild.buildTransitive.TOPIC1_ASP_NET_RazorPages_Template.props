@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TOPIC1_ASP_NET_RazorPages_Template.props" />
+</Project>

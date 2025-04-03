@@ -1,0 +1,16 @@
+{
+    "ConnectionStrings": {
+        "MyCnn": "server=ESTEEM203\SQLEXPRESS;database=PRN222DB;uid=sa;pwd=123;TrustServerCertificate=True;"
+    }
+
+    //dotnet ef dbcontext scaffold "server=ESTEEM203\SQLEXPRESS;database=PRN222DB;uid=sa;pwd=sa;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models
+
+}
+ //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+ //   {
+ //       var builder = new ConfigurationBuilder()
+ //                             .SetBasePath(Directory.GetCurrentDirectory())
+ //                             .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
+ //       IConfigurationRoot configuration = builder.Build();
+ //       optionsBuilder.UseSqlServer(configuration.GetConnectionString("MyCnn"));
+ //   }

@@ -1,0 +1,16 @@
+﻿@model Model2_ASP_NET_EF_CodeFirst.Models.Category
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<h2>Chỉnh sửa danh mục</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="CategoryId" />
+
+    <label>Tên danh mục:</label>
+    <input asp-for="CategoryName" class="form-control" required />
+
+    <label>Mô tả:</label>
+    <textarea asp-for="Description" class="form-control"></textarea>
+
+    <button type="submit" class="btn btn-success">Lưu</button>
+</form>

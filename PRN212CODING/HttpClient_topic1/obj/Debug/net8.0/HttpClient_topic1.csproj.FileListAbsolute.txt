@@ -1,0 +1,14 @@
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\HttpClient_topic1\bin\Debug\net8.0\HttpClient_topic1.exe
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\HttpClient_topic1\bin\Debug\net8.0\HttpClient_topic1.deps.json
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\HttpClient_topic1\bin\Debug\net8.0\HttpClient_topic1.runtimeconfig.json
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\HttpClient_topic1\bin\Debug\net8.0\HttpClient_topic1.dll
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\HttpClient_topic1\bin\Debug\net8.0\HttpClient_topic1.pdb
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\HttpClient_topic1\obj\Debug\net8.0\HttpClient_topic1.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\HttpClient_topic1\obj\Debug\net8.0\HttpClient_topic1.AssemblyInfoInputs.cache
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\HttpClient_topic1\obj\Debug\net8.0\HttpClient_topic1.AssemblyInfo.cs
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\HttpClient_topic1\obj\Debug\net8.0\HttpClient_topic1.csproj.CoreCompileInputs.cache
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\HttpClient_topic1\obj\Debug\net8.0\HttpClient_topic1.dll
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\HttpClient_topic1\obj\Debug\net8.0\refint\HttpClient_topic1.dll
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\HttpClient_topic1\obj\Debug\net8.0\HttpClient_topic1.pdb
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\HttpClient_topic1\obj\Debug\net8.0\HttpClient_topic1.genruntimeconfig.cache
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\HttpClient_topic1\obj\Debug\net8.0\ref\HttpClient_topic1.dll

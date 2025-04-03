@@ -1,0 +1,14 @@
+D:\coding\class\PRN222\coding\PRN212CODING\FileServer\bin\Debug\net8.0\FileServer.exe
+D:\coding\class\PRN222\coding\PRN212CODING\FileServer\bin\Debug\net8.0\FileServer.deps.json
+D:\coding\class\PRN222\coding\PRN212CODING\FileServer\bin\Debug\net8.0\FileServer.runtimeconfig.json
+D:\coding\class\PRN222\coding\PRN212CODING\FileServer\bin\Debug\net8.0\FileServer.dll
+D:\coding\class\PRN222\coding\PRN212CODING\FileServer\bin\Debug\net8.0\FileServer.pdb
+D:\coding\class\PRN222\coding\PRN212CODING\FileServer\obj\Debug\net8.0\FileServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\class\PRN222\coding\PRN212CODING\FileServer\obj\Debug\net8.0\FileServer.AssemblyInfoInputs.cache
+D:\coding\class\PRN222\coding\PRN212CODING\FileServer\obj\Debug\net8.0\FileServer.AssemblyInfo.cs
+D:\coding\class\PRN222\coding\PRN212CODING\FileServer\obj\Debug\net8.0\FileServer.csproj.CoreCompileInputs.cache
+D:\coding\class\PRN222\coding\PRN212CODING\FileServer\obj\Debug\net8.0\FileServer.dll
+D:\coding\class\PRN222\coding\PRN212CODING\FileServer\obj\Debug\net8.0\refint\FileServer.dll
+D:\coding\class\PRN222\coding\PRN212CODING\FileServer\obj\Debug\net8.0\FileServer.pdb
+D:\coding\class\PRN222\coding\PRN212CODING\FileServer\obj\Debug\net8.0\FileServer.genruntimeconfig.cache
+D:\coding\class\PRN222\coding\PRN212CODING\FileServer\obj\Debug\net8.0\ref\FileServer.dll

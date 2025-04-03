@@ -1,0 +1,435 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\pages\\admin\\updateproductmodel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\pages\\admin\\updateproductmodel.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\pages\\admin\\updateproductmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\pages\\admin\\updateproductmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\pages\\admin\\createproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\pages\\admin\\createproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\pages\\admin\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\pages\\admin\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\pages\\admin\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\pages\\admin\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\pages\\homepage\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\pages\\homepage\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\pages\\admin\\product.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\pages\\admin\\product.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\pages\\homepage\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\pages\\homepage\\orderhistory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\pages\\homepage\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\pages\\homepage\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\wwwroot\\js\\script_signalr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\wwwroot\\js\\script_signalr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\pages\\admin\\deleteproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\pages\\admin\\deleteproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\pages\\admin\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\pages\\admin\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\wwwroot\\lib\\microsoft-signalr\\signalr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\wwwroot\\lib\\microsoft-signalr\\signalr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\pages\\homepage\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\pages\\homepage\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|d:\\coding\\class\\prn222\\coding\\topic1_asp_net_razorpages_template\\topic3_razorpages_dbf1\\topic3_razorpages_dbf1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C30DFA83-1A37-4245-9173-34B2B0F06E72}|Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj|solutionrelative:topic3_razorpages_dbf1\\topic3_razorpages_dbf1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateProductModel.cshtml",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Admin\\UpdateProductModel.cshtml",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Pages\\Admin\\UpdateProductModel.cshtml",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Admin\\UpdateProductModel.cshtml",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Pages\\Admin\\UpdateProductModel.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T08:15:51.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateProductModel.cshtml.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Admin\\UpdateProductModel.cshtml.cs",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Pages\\Admin\\UpdateProductModel.cshtml.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Admin\\UpdateProductModel.cshtml.cs",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Pages\\Admin\\UpdateProductModel.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:15:51.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProduct.cshtml.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Admin\\CreateProduct.cshtml.cs",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Pages\\Admin\\CreateProduct.cshtml.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Admin\\CreateProduct.cshtml.cs",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Pages\\Admin\\CreateProduct.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:17:25.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Admin\\Product.cshtml",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Pages\\Admin\\Product.cshtml",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Admin\\Product.cshtml",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Pages\\Admin\\Product.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T08:14:12.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Admin\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Pages\\Admin\\CreateProduct.cshtml",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Admin\\CreateProduct.cshtml",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Pages\\Admin\\CreateProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T08:19:49.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cart.cshtml.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\HomePage\\Cart.cshtml.cs",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Pages\\HomePage\\Cart.cshtml.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\HomePage\\Cart.cshtml.cs",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Pages\\HomePage\\Cart.cshtml.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAtwEoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T02:25:47.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T08:16:54.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T08:16:54.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cshtml.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Admin\\Product.cshtml.cs",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Pages\\Admin\\Product.cshtml.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Admin\\Product.cshtml.cs",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Pages\\Admin\\Product.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:15:16.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Program.cs",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Program.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Program.cs",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:16:17.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-22T08:16:50.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\HomePage\\Register.cshtml",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Pages\\HomePage\\Register.cshtml",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\HomePage\\Register.cshtml",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Pages\\HomePage\\Register.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T08:20:01.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T08:13:51.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderHistory.cshtml",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\HomePage\\OrderHistory.cshtml",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Pages\\HomePage\\OrderHistory.cshtml",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\HomePage\\OrderHistory.cshtml",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Pages\\HomePage\\OrderHistory.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T08:20:04.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T08:16:53.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T02:24:41.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T02:24:42.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "script_signalr.js",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\wwwroot\\js\\script_signalr.js",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\wwwroot\\js\\script_signalr.js",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\wwwroot\\js\\script_signalr.js",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\wwwroot\\js\\script_signalr.js",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-18T02:27:05.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeleteProduct.cshtml.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Admin\\DeleteProduct.cshtml.cs",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Pages\\Admin\\DeleteProduct.cshtml.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Admin\\DeleteProduct.cshtml.cs",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Pages\\Admin\\DeleteProduct.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:15:23.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T08:16:27.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeleteProduct.cshtml",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Admin\\DeleteProduct.cshtml",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Pages\\Admin\\DeleteProduct.cshtml",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\Admin\\DeleteProduct.cshtml",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Pages\\Admin\\DeleteProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T08:14:16.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "signalr.js",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\wwwroot\\lib\\microsoft-signalr\\signalr.js",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\wwwroot\\lib\\microsoft-signalr\\signalr.js",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\wwwroot\\lib\\microsoft-signalr\\signalr.js",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\wwwroot\\lib\\microsoft-signalr\\signalr.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-22T08:16:04.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "libman.json",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\libman.json",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\libman.json",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\libman.json",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\libman.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T02:24:27.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\HomePage\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Pages\\HomePage\\Cart.cshtml",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Pages\\HomePage\\Cart.cshtml",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Pages\\HomePage\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T08:14:21.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Topic3_RazorPages_DBF1.csproj",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj",
+              "RelativeDocumentMoniker": "Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\TOPIC1_ASP_NET_RazorPages_Template\\Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj",
+              "RelativeToolTip": "Topic3_RazorPages_DBF1\\Topic3_RazorPages_DBF1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-18T02:25:44.635Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

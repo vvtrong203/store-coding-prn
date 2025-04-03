@@ -1,0 +1,33 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TOPIC2_ASP_NET_RazorPages_Empty
+build_property.RootNamespace = TOPIC2_ASP_NET_RazorPages_Empty
+build_property.ProjectDir = D:\coding\class\PRN222\coding\TOPIC1_ASP_NET_RazorPages_Template\TOPIC2_ASP_NET_RazorPages_Empty\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\coding\class\PRN222\coding\TOPIC1_ASP_NET_RazorPages_Template\TOPIC2_ASP_NET_RazorPages_Empty
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/coding/class/PRN222/coding/TOPIC1_ASP_NET_RazorPages_Template/TOPIC2_ASP_NET_RazorPages_Empty/Pages/Caculator.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FjdWxhdG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/coding/class/PRN222/coding/TOPIC1_ASP_NET_RazorPages_Template/TOPIC2_ASP_NET_RazorPages_Empty/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/coding/class/PRN222/coding/TOPIC1_ASP_NET_RazorPages_Template/TOPIC2_ASP_NET_RazorPages_Empty/Pages/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

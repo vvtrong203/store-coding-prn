@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Module2_ASP_NET_MVC_EF_CodeFirst.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Module2_ASP_NET_MVC_EF_CodeFirst.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Module2_ASP_NET_MVC_EF_CodeFirst.props",
+      "PackagePath": "build\\Module2_ASP_NET_MVC_EF_CodeFirst.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Module2_ASP_NET_MVC_EF_CodeFirst.props",
+      "PackagePath": "buildMultiTargeting\\Module2_ASP_NET_MVC_EF_CodeFirst.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Module2_ASP_NET_MVC_EF_CodeFirst.props",
+      "PackagePath": "buildTransitive\\Module2_ASP_NET_MVC_EF_CodeFirst.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

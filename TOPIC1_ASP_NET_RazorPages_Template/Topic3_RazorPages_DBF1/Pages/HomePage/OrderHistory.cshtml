@@ -1,0 +1,38 @@
+﻿@page
+@model Topic3_RazorPages_DBF1.Pages.HomePage.OrderHistoryModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<div class="container mt-4">
+    <h3 class="text-center mb-4">🛒 Order History</h3>
+
+    @if (Model.OrderHistory.Any())
+    {
+        <div class="table-responsive">
+            <table class="table table-striped table-hover table-bordered text-center align-middle shadow">
+                <thead class="table-dark">
+                <tr>
+                    <th scope="col">📅 Order Date</th>
+                    <th scope="col">📦 Product Name</th>
+                    <th scope="col">🔢 Quantity</th>
+                </tr>
+                </thead>
+                <tbody>
+                @foreach (var order in Model.OrderHistory)
+                {
+                    <tr>
+                        <td>@order.OrderDate.ToString("yyyy-MM-dd HH:mm")</td>
+                        <td>@order.ProductName</td>
+                        <td>@order.Quantity</td>
+                    </tr>
+                }
+                </tbody>
+            </table>
+        </div>
+    }
+    else
+    {
+        <div class="alert alert-info text-center mt-3" role="alert">
+            🛍️ No orders found!
+        </div>
+    }
+</div>

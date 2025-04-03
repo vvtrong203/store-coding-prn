@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|d:\\source-university\\semester-5\\prn212\\practice_pe\\prn212_givensolution\\question2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|solutionrelative:question2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|d:\\source-university\\semester-5\\prn212\\practice_pe\\prn212_givensolution\\question2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|solutionrelative:question2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|d:\\source-university\\semester-5\\prn212\\practice_pe\\prn212_givensolution\\question2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|solutionrelative:question2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|d:\\source-university\\semester-5\\prn212\\practice_pe\\prn212_givensolution\\question2\\models\\peprn24sumb1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|solutionrelative:question2\\models\\peprn24sumb1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|d:\\source-university\\semester-5\\prn212\\practice_pe\\prn212_givensolution\\question2\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|solutionrelative:question2\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|d:\\source-university\\semester-5\\prn212\\practice_pe\\prn212_givensolution\\question2\\models\\coursecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|solutionrelative:question2\\models\\coursecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|d:\\source-university\\semester-5\\prn212\\practice_pe\\prn212_givensolution\\question2\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|solutionrelative:question2\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|d:\\source-university\\semester-5\\prn212\\practice_pe\\prn212_givensolution\\question2\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|solutionrelative:question2\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|d:\\source-university\\semester-5\\prn212\\practice_pe\\prn212_givensolution\\question2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|solutionrelative:question2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC9F9E7-3CE6-4FC9-AA8C-1FFDEFE1C65B}|Question1\\Question1.csproj|d:\\source-university\\semester-5\\prn212\\practice_pe\\prn212_givensolution\\question1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC9F9E7-3CE6-4FC9-AA8C-1FFDEFE1C65B}|Question1\\Question1.csproj|solutionrelative:question1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC9F9E7-3CE6-4FC9-AA8C-1FFDEFE1C65B}|Question1\\Question1.csproj|d:\\source-university\\semester-5\\prn212\\practice_pe\\prn212_givensolution\\question1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC9F9E7-3CE6-4FC9-AA8C-1FFDEFE1C65B}|Question1\\Question1.csproj|solutionrelative:question1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC9F9E7-3CE6-4FC9-AA8C-1FFDEFE1C65B}|Question1\\Question1.csproj|d:\\source-university\\semester-5\\prn212\\practice_pe\\prn212_givensolution\\question1\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC9F9E7-3CE6-4FC9-AA8C-1FFDEFE1C65B}|Question1\\Question1.csproj|solutionrelative:question1\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC9F9E7-3CE6-4FC9-AA8C-1FFDEFE1C65B}|Question1\\Question1.csproj|d:\\source-university\\semester-5\\prn212\\practice_pe\\prn212_givensolution\\question1\\question1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FEC9F9E7-3CE6-4FC9-AA8C-1FFDEFE1C65B}|Question1\\Question1.csproj|solutionrelative:question1\\question1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|d:\\source-university\\semester-5\\prn212\\practice_pe\\prn212_givensolution\\question2\\question2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{035D9FB4-C265-4391-A295-0648C70D5606}|Question2\\Question2.csproj|solutionrelative:question2\\question2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseCategory.cs",
+              "DocumentMoniker": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question2\\Models\\CourseCategory.cs",
+              "RelativeDocumentMoniker": "Question2\\Models\\CourseCategory.cs",
+              "ToolTip": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question2\\Models\\CourseCategory.cs",
+              "RelativeToolTip": "Question2\\Models\\CourseCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T02:58:40.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question2\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Question2\\Models\\Instructor.cs",
+              "ToolTip": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question2\\Models\\Instructor.cs",
+              "RelativeToolTip": "Question2\\Models\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T02:58:38.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Question2\\MainWindow.xaml",
+              "ToolTip": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question2\\MainWindow.xaml",
+              "RelativeToolTip": "Question2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-13T12:29:40.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PePrn24sumB1Context.cs",
+              "DocumentMoniker": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question2\\Models\\PePrn24sumB1Context.cs",
+              "RelativeDocumentMoniker": "Question2\\Models\\PePrn24sumB1Context.cs",
+              "ToolTip": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question2\\Models\\PePrn24sumB1Context.cs",
+              "RelativeToolTip": "Question2\\Models\\PePrn24sumB1Context.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACsAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T02:58:37.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question2\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Question2\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question2\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Question2\\Models\\Enrollment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T02:57:29.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Question2\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Question2\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowDoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:30:25.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question2\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Question2\\Models\\Course.cs",
+              "ToolTip": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question2\\Models\\Course.cs",
+              "RelativeToolTip": "Question2\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T02:58:40.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question2\\appsettings.json",
+              "RelativeDocumentMoniker": "Question2\\appsettings.json",
+              "ToolTip": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question2\\appsettings.json",
+              "RelativeToolTip": "Question2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T02:58:30.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Question1.csproj",
+              "DocumentMoniker": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question1\\Question1.csproj",
+              "RelativeDocumentMoniker": "Question1\\Question1.csproj",
+              "ToolTip": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question1\\Question1.csproj",
+              "RelativeToolTip": "Question1\\Question1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T00:47:00.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question2\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Question2\\AssemblyInfo.cs",
+              "ToolTip": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question2\\AssemblyInfo.cs",
+              "RelativeToolTip": "Question2\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:45:03.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question1\\Student.cs",
+              "RelativeDocumentMoniker": "Question1\\Student.cs",
+              "ToolTip": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question1\\Student.cs",
+              "RelativeToolTip": "Question1\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:29:16.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Group.cs",
+              "DocumentMoniker": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question1\\Group.cs",
+              "RelativeDocumentMoniker": "Question1\\Group.cs",
+              "ToolTip": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question1\\Group.cs",
+              "RelativeToolTip": "Question1\\Group.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:29:19.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question1\\Program.cs",
+              "RelativeDocumentMoniker": "Question1\\Program.cs",
+              "ToolTip": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question1\\Program.cs",
+              "RelativeToolTip": "Question1\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T12:29:16.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Question2.csproj",
+              "DocumentMoniker": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question2\\Question2.csproj",
+              "RelativeDocumentMoniker": "Question2\\Question2.csproj",
+              "ToolTip": "D:\\source-university\\semester-5\\PRN212\\Practice_PE\\PRN212_GivenSolution\\Question2\\Question2.csproj",
+              "RelativeToolTip": "Question2\\Question2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T11:56:02.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+﻿@page
+@model Topic_3_ASP_DOT_NET_RAZOR_WORKEF_DBFRIST.Pages.Admin.ProductPage.IndexModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<h2>Danh sách sản phẩm</h2>
+
+<p>
+    <a class="btn btn-primary" href="/Admin/ProductPage/CreateProduct">Create New Product</a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Tên sản phẩm</th>
+        <th>Danh mục</th>
+        <th>Giá</th>
+        <th>Actions</th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var product in Model.productList)
+    {
+        <tr>
+            <td>@product.ProductId</td>
+            <td>@product.ProductName</td>
+            <td>@product.Category?.CategoryName</td>
+            <td>@product.Price.ToString("C")</td>
+            <td>
+                <a class="btn btn-warning btn-sm" href="/Admin/UpdateProductModel?id=@product.ProductId">Update</a>
+                <a class="btn btn-danger btn-sm" href="/Admin/DeleteProduct?id=@product.ProductId">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Module2_ASP_NET_MVC_EF_CodeFirst.props" />
+</Project>

@@ -1,0 +1,112 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using Module2_ASP_NET_MVC_EF_CodeFirst.Models
+@model List<Product>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>List of Products</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+<body>
+
+    <div class="container mt-4">
+        <div class="row">
+            <!-- danh sach san pham -->
+            <div class="col-md-8">
+                <h1 class="mb-3">List of Products</h1>
+                <table class="table table-bordered table-hover">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>Id</th>
+                            <th>Name</th>
+                            <th>Price</th>
+                            <th>Category</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var p in Model)
+                        {
+                            <tr>
+                                <td>@p.ProductId</td>
+                                <td>
+                                    <a asp-action="Detail" asp-route-id="@p.ProductId" class="text-decoration-none">
+                                        @p.ProductName
+                                    </a>
+                                </td>
+                                <td>@p.Price.ToString("N0") VND</td>
+                                <td>@p.Category.CategoryName</td>
+                                <td>
+                                    <form method="post" asp-action="AddToCart" asp-controller="Product">
+                                        <input type="hidden" name="productId" value="@p.ProductId" />
+                                        <input type="number" name="quantity" class="form-control me-2" value="1" min="1" style="width: 60px; display: inline-block;">
+                                        <button type="submit" class="btn btn-primary">Add to Cart</button>
+                                    </form>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Gio Hang -->
+            <div class="col-md-4">
+                <h2>Shopping Cart</h2>
+                @if (ViewBag.Cart == null || ((List<CartItem>)ViewBag.Cart).Count == 0) 
+                {
+                    <div class="alert alert-info">Cart is empty!</div>
+                }
+                else
+                {
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Product</th>
+                                <th>Price</th>
+                                <th>Quantity</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var (item, index) in ((List<CartItem>)ViewBag.Cart).Select((value, i) => (value, i + 1))) // Sửa kiểu dữ liệu
+                            {
+                                <tr>
+                                    <td>@index</td>
+                                    <td>@item.ProductName</td>
+                                    <td>@item.UnitPrice</td>
+                                    <td>@item.Quantity</td>
+                                    <td>
+                                        <a href="@Url.Action("RemoveFromCart", "Product", new { productId = item.ProductId })" class="btn btn-danger btn-sm">X</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    <form method="post" asp-action="Checkout" asp-controller="Product">
+                        <label>Ship Address:</label>
+                        <textarea name="ShipAddress" class="form-control"></textarea>
+                        <button type="submit" class="btn btn-success mt-3">Checkout</button>
+                    </form>
+                }
+                @{
+                    var successMessage = TempData["SuccessMessage"];
+                }
+
+                @if (successMessage != null)
+                {
+                    <div class="alert alert-success" style="color: green;">
+                        <h1>Thank you for your order!</h1>
+                        <h2>Your order has been placed successfully.</h2>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

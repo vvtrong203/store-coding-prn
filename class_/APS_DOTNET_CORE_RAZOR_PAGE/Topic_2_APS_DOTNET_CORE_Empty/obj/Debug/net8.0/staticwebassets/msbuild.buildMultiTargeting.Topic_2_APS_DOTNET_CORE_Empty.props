@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Topic_2_APS_DOTNET_CORE_Empty.props" />
+</Project>

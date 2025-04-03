@@ -1,0 +1,14 @@
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\DNS_Demo\bin\Debug\net8.0\DNS_Demo.exe
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\DNS_Demo\bin\Debug\net8.0\DNS_Demo.deps.json
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\DNS_Demo\bin\Debug\net8.0\DNS_Demo.runtimeconfig.json
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\DNS_Demo\bin\Debug\net8.0\DNS_Demo.dll
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\DNS_Demo\bin\Debug\net8.0\DNS_Demo.pdb
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\DNS_Demo\obj\Debug\net8.0\DNS_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\DNS_Demo\obj\Debug\net8.0\DNS_Demo.AssemblyInfoInputs.cache
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\DNS_Demo\obj\Debug\net8.0\DNS_Demo.AssemblyInfo.cs
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\DNS_Demo\obj\Debug\net8.0\DNS_Demo.csproj.CoreCompileInputs.cache
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\DNS_Demo\obj\Debug\net8.0\DNS_Demo.dll
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\DNS_Demo\obj\Debug\net8.0\refint\DNS_Demo.dll
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\DNS_Demo\obj\Debug\net8.0\DNS_Demo.pdb
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\DNS_Demo\obj\Debug\net8.0\DNS_Demo.genruntimeconfig.cache
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\DNS_Demo\obj\Debug\net8.0\ref\DNS_Demo.dll

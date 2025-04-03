@@ -1,0 +1,14 @@
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\Topic1_Networking\bin\Debug\net8.0\Topic1_Networking.exe
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\Topic1_Networking\bin\Debug\net8.0\Topic1_Networking.deps.json
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\Topic1_Networking\bin\Debug\net8.0\Topic1_Networking.runtimeconfig.json
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\Topic1_Networking\bin\Debug\net8.0\Topic1_Networking.dll
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\Topic1_Networking\bin\Debug\net8.0\Topic1_Networking.pdb
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\Topic1_Networking\obj\Debug\net8.0\Topic1_Networking.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\Topic1_Networking\obj\Debug\net8.0\Topic1_Networking.AssemblyInfoInputs.cache
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\Topic1_Networking\obj\Debug\net8.0\Topic1_Networking.AssemblyInfo.cs
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\Topic1_Networking\obj\Debug\net8.0\Topic1_Networking.csproj.CoreCompileInputs.cache
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\Topic1_Networking\obj\Debug\net8.0\Topic1_Networking.dll
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\Topic1_Networking\obj\Debug\net8.0\refint\Topic1_Networking.dll
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\Topic1_Networking\obj\Debug\net8.0\Topic1_Networking.pdb
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\Topic1_Networking\obj\Debug\net8.0\Topic1_Networking.genruntimeconfig.cache
+D:\coding\udemy-coding\master-csharp-coding\PRN212CODING\Topic1_Networking\obj\Debug\net8.0\ref\Topic1_Networking.dll

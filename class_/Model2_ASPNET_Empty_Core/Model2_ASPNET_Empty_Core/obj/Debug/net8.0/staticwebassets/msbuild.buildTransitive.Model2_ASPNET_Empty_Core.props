@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Model2_ASPNET_Empty_Core.props" />
+</Project>

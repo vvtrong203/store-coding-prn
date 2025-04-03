@@ -1,0 +1,36 @@
+﻿@page
+@model TOPIC2_ASP_NET_RazorPages_Empty.Pages.Index1Model
+@{
+	//C# code hrer	
+	string name = "Ronaldo";
+	int age = 40;
+	var book = new { Id = 1, name = "PRN222 practice" };
+}
+
+html code here (can Razor syntax)
+<h1>Welcome to ASP.NET RazorPages page1</h1><br>
+<div>Name : @name</div>
+<div>Age : @age</div>
+<div>Book infor : @book.Id , @book</div>
+
+<h3> data from model : @Model.Message</h3><br>
+<table border="1">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Major</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model.studentsList)
+        {
+            <tr>
+                <td>@student.Id</td>
+                <td>@student.Name</td>
+                <td>@student.Major</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

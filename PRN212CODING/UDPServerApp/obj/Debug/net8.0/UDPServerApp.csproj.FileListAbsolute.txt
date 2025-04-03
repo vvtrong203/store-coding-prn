@@ -1,0 +1,14 @@
+D:\coding\class\PRN222\coding\PRN212CODING\UDPServerApp\bin\Debug\net8.0\UDPServerApp.exe
+D:\coding\class\PRN222\coding\PRN212CODING\UDPServerApp\bin\Debug\net8.0\UDPServerApp.deps.json
+D:\coding\class\PRN222\coding\PRN212CODING\UDPServerApp\bin\Debug\net8.0\UDPServerApp.runtimeconfig.json
+D:\coding\class\PRN222\coding\PRN212CODING\UDPServerApp\bin\Debug\net8.0\UDPServerApp.dll
+D:\coding\class\PRN222\coding\PRN212CODING\UDPServerApp\bin\Debug\net8.0\UDPServerApp.pdb
+D:\coding\class\PRN222\coding\PRN212CODING\UDPServerApp\obj\Debug\net8.0\UDPServerApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\class\PRN222\coding\PRN212CODING\UDPServerApp\obj\Debug\net8.0\UDPServerApp.AssemblyInfoInputs.cache
+D:\coding\class\PRN222\coding\PRN212CODING\UDPServerApp\obj\Debug\net8.0\UDPServerApp.AssemblyInfo.cs
+D:\coding\class\PRN222\coding\PRN212CODING\UDPServerApp\obj\Debug\net8.0\UDPServerApp.csproj.CoreCompileInputs.cache
+D:\coding\class\PRN222\coding\PRN212CODING\UDPServerApp\obj\Debug\net8.0\UDPServerApp.dll
+D:\coding\class\PRN222\coding\PRN212CODING\UDPServerApp\obj\Debug\net8.0\refint\UDPServerApp.dll
+D:\coding\class\PRN222\coding\PRN212CODING\UDPServerApp\obj\Debug\net8.0\UDPServerApp.pdb
+D:\coding\class\PRN222\coding\PRN212CODING\UDPServerApp\obj\Debug\net8.0\UDPServerApp.genruntimeconfig.cache
+D:\coding\class\PRN222\coding\PRN212CODING\UDPServerApp\obj\Debug\net8.0\ref\UDPServerApp.dll

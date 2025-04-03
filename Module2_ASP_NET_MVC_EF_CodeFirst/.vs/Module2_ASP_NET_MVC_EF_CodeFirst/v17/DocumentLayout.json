@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B10EEBF9-AD72-4824-B1CD-D3624FE99B48}|Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst.csproj|d:\\coding\\class\\prn222\\coding\\module2_asp_net_mvc_ef_codefirst\\module2_asp_net_mvc_ef_codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10EEBF9-AD72-4824-B1CD-D3624FE99B48}|Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst.csproj|solutionrelative:module2_asp_net_mvc_ef_codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10EEBF9-AD72-4824-B1CD-D3624FE99B48}|Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst.csproj|d:\\coding\\class\\prn222\\coding\\module2_asp_net_mvc_ef_codefirst\\module2_asp_net_mvc_ef_codefirst\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B10EEBF9-AD72-4824-B1CD-D3624FE99B48}|Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst.csproj|solutionrelative:module2_asp_net_mvc_ef_codefirst\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10EEBF9-AD72-4824-B1CD-D3624FE99B48}|Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst.csproj|d:\\coding\\class\\prn222\\coding\\module2_asp_net_mvc_ef_codefirst\\module2_asp_net_mvc_ef_codefirst\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10EEBF9-AD72-4824-B1CD-D3624FE99B48}|Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst.csproj|solutionrelative:module2_asp_net_mvc_ef_codefirst\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10EEBF9-AD72-4824-B1CD-D3624FE99B48}|Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst.csproj|d:\\coding\\class\\prn222\\coding\\module2_asp_net_mvc_ef_codefirst\\module2_asp_net_mvc_ef_codefirst\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10EEBF9-AD72-4824-B1CD-D3624FE99B48}|Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst.csproj|solutionrelative:module2_asp_net_mvc_ef_codefirst\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10EEBF9-AD72-4824-B1CD-D3624FE99B48}|Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst.csproj|d:\\coding\\class\\prn222\\coding\\module2_asp_net_mvc_ef_codefirst\\module2_asp_net_mvc_ef_codefirst\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10EEBF9-AD72-4824-B1CD-D3624FE99B48}|Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst.csproj|solutionrelative:module2_asp_net_mvc_ef_codefirst\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10EEBF9-AD72-4824-B1CD-D3624FE99B48}|Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst.csproj|d:\\coding\\class\\prn222\\coding\\module2_asp_net_mvc_ef_codefirst\\module2_asp_net_mvc_ef_codefirst\\models\\prn222dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10EEBF9-AD72-4824-B1CD-D3624FE99B48}|Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst.csproj|solutionrelative:module2_asp_net_mvc_ef_codefirst\\models\\prn222dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10EEBF9-AD72-4824-B1CD-D3624FE99B48}|Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst.csproj|d:\\coding\\class\\prn222\\coding\\module2_asp_net_mvc_ef_codefirst\\module2_asp_net_mvc_ef_codefirst\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10EEBF9-AD72-4824-B1CD-D3624FE99B48}|Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst.csproj|solutionrelative:module2_asp_net_mvc_ef_codefirst\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10EEBF9-AD72-4824-B1CD-D3624FE99B48}|Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst.csproj|d:\\coding\\class\\prn222\\coding\\module2_asp_net_mvc_ef_codefirst\\module2_asp_net_mvc_ef_codefirst\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10EEBF9-AD72-4824-B1CD-D3624FE99B48}|Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst.csproj|solutionrelative:module2_asp_net_mvc_ef_codefirst\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10EEBF9-AD72-4824-B1CD-D3624FE99B48}|Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst.csproj|d:\\coding\\class\\prn222\\coding\\module2_asp_net_mvc_ef_codefirst\\module2_asp_net_mvc_ef_codefirst\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10EEBF9-AD72-4824-B1CD-D3624FE99B48}|Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst.csproj|solutionrelative:module2_asp_net_mvc_ef_codefirst\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10EEBF9-AD72-4824-B1CD-D3624FE99B48}|Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst.csproj|d:\\coding\\class\\prn222\\coding\\module2_asp_net_mvc_ef_codefirst\\module2_asp_net_mvc_ef_codefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10EEBF9-AD72-4824-B1CD-D3624FE99B48}|Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst.csproj|solutionrelative:module2_asp_net_mvc_ef_codefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Module2_ASP_NET_MVC_EF_CodeFirst\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Module2_ASP_NET_MVC_EF_CodeFirst\\Controllers\\CartController.cs",
+              "ViewState": "AQIAADgAAAAA9v////8NwG0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T03:17:33.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "Module2_ASP_NET_MVC_EF_CodeFirst\\Program.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\Program.cs",
+              "RelativeToolTip": "Module2_ASP_NET_MVC_EF_CodeFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T03:17:33.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "Module2_ASP_NET_MVC_EF_CodeFirst\\Views\\Product\\List.cshtml",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "Module2_ASP_NET_MVC_EF_CodeFirst\\Views\\Product\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T03:17:33.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Module2_ASP_NET_MVC_EF_CodeFirst\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Module2_ASP_NET_MVC_EF_CodeFirst\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T03:17:33.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PRN222DBContext.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\PRN222DBContext.cs",
+              "RelativeDocumentMoniker": "Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\PRN222DBContext.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\PRN222DBContext.cs",
+              "RelativeToolTip": "Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\PRN222DBContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T03:17:33.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\CartItem.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\CartItem.cs",
+              "RelativeToolTip": "Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T03:17:33.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T03:17:33.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\Order.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\Order.cs",
+              "RelativeToolTip": "Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T03:17:33.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\Category.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\Category.cs",
+              "RelativeToolTip": "Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T03:17:33.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\Product.cs",
+              "ToolTip": "D:\\coding\\class\\PRN222\\coding\\Module2_ASP_NET_MVC_EF_CodeFirst\\Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\Product.cs",
+              "RelativeToolTip": "Module2_ASP_NET_MVC_EF_CodeFirst\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T03:17:33.879Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

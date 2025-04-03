@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Model2_ASP_NET_EF_CodeFirst.props" />
+</Project>

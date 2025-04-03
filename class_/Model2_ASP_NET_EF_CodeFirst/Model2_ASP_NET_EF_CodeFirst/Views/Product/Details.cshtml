@@ -1,0 +1,60 @@
+﻿@using Model2_ASP_NET_EF_CodeFirst.Models
+@model Product
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<style>
+    .product-details {
+        max-width: 500px;
+        margin: 30px auto;
+        padding: 20px;
+        background: #ffffff;
+        border-radius: 10px;
+        box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+        font-family: Arial, sans-serif;
+    }
+
+    .product-details h2 {
+        text-align: center;
+        color: #28a745;
+        margin-bottom: 20px;
+    }
+
+    .product-details p {
+        font-size: 18px;
+        line-height: 1.6;
+        margin-bottom: 10px;
+    }
+
+    .product-details strong {
+        color: #333;
+    }
+
+    /* Nút Quay lại */
+    .btn-secondary {
+        display: block;
+        width: 100%;
+        text-align: center;
+        background-color: #6c757d;
+        color: white;
+        padding: 10px;
+        border-radius: 5px;
+        text-decoration: none;
+        transition: background 0.3s ease;
+    }
+
+    .btn-secondary:hover {
+        background-color: #5a6268;
+        text-decoration: none;
+    }
+</style>
+
+
+<h2>Chi tiết sản phẩm</h2>
+
+<div class="product-details">
+    <p><strong>Tên sản phẩm:</strong> @Model.ProductName</p>
+    <p><strong>Giá:</strong> @Model.Price</p>
+    <p><strong>Danh mục:</strong> @(Model.Category != null ? Model.Category.CategoryName : "Chưa có danh mục")</p>
+</div>
+
+<a asp-controller="Product" asp-action="Index" class="btn btn-secondary" role="button">Quay lại</a>

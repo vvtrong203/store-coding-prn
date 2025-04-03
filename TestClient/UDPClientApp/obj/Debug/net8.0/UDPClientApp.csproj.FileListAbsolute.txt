@@ -1,0 +1,14 @@
+D:\coding\class\PRN222\coding\TestClient\UDPClientApp\bin\Debug\net8.0\UDPClientApp.exe
+D:\coding\class\PRN222\coding\TestClient\UDPClientApp\bin\Debug\net8.0\UDPClientApp.deps.json
+D:\coding\class\PRN222\coding\TestClient\UDPClientApp\bin\Debug\net8.0\UDPClientApp.runtimeconfig.json
+D:\coding\class\PRN222\coding\TestClient\UDPClientApp\bin\Debug\net8.0\UDPClientApp.dll
+D:\coding\class\PRN222\coding\TestClient\UDPClientApp\bin\Debug\net8.0\UDPClientApp.pdb
+D:\coding\class\PRN222\coding\TestClient\UDPClientApp\obj\Debug\net8.0\UDPClientApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\class\PRN222\coding\TestClient\UDPClientApp\obj\Debug\net8.0\UDPClientApp.AssemblyInfoInputs.cache
+D:\coding\class\PRN222\coding\TestClient\UDPClientApp\obj\Debug\net8.0\UDPClientApp.AssemblyInfo.cs
+D:\coding\class\PRN222\coding\TestClient\UDPClientApp\obj\Debug\net8.0\UDPClientApp.csproj.CoreCompileInputs.cache
+D:\coding\class\PRN222\coding\TestClient\UDPClientApp\obj\Debug\net8.0\UDPClientApp.dll
+D:\coding\class\PRN222\coding\TestClient\UDPClientApp\obj\Debug\net8.0\refint\UDPClientApp.dll
+D:\coding\class\PRN222\coding\TestClient\UDPClientApp\obj\Debug\net8.0\UDPClientApp.pdb
+D:\coding\class\PRN222\coding\TestClient\UDPClientApp\obj\Debug\net8.0\UDPClientApp.genruntimeconfig.cache
+D:\coding\class\PRN222\coding\TestClient\UDPClientApp\obj\Debug\net8.0\ref\UDPClientApp.dll

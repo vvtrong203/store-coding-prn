@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Topic_1_APS_DOTNET_CORE_RAZOR_PAGE_TEMPLATE.props" />
+</Project>

@@ -1,0 +1,11 @@
+﻿@model Model2_ASP_NET_EF_CodeFirst.Models.Category
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<h2>Thêm danh mục mới</h2>
+
+<form asp-action="Create" method="post">
+    <label>Tên danh mục:</label>
+    <input asp-for="CategoryName" class="form-control" required />
+
+    <button type="submit" class="btn btn-success">Thêm mới</button>
+</form>
