@@ -6,3 +6,10 @@
 
 dotnet ef dbcontext scaffold "server=ESTEEM203\SQLEXPRESS;database=Test;uid=sa;pwd=sa;TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models
 
+
+https://seaburysolutions.udemy.com/organization/home/
+
+
+dotnet ef migrations add InitialCreate
+dotnet ef database update
+
